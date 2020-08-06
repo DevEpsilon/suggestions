@@ -31,7 +31,3 @@ You can load it up in command prompt with "node index.js"
 
 Note: The bot will only be online while the command prompt is open, You can buy bot hosting on websites like sparkedhosting, I only recommend
 doing this if you're planning to have the bot online all the time & you have some knowledge on JavaScript/Discord.js.
-
-You can use this bot for more commands, Check out https://github.com/Oribuin/TutorialBot for more info.
-
-Developers MC Server Discord: https://discord.gg/4p3gGwg
